@@ -1,0 +1,2715 @@
+Skill,Category,Count
+Big Data,Data_Concepts_and_Architectures,124
+Git,DevOps_and_CI/CD_Tools,38
+Agile,Soft_Skills_and_Methodologies,54
+Scrum,Soft_Skills_and_Methodologies,15
+Big Data,Concepts,124
+Redshift,Databases,34
+S3,Databases,21
+Kinesis,Streaming,2
+PySpark,Programming_Languages,51
+Hadoop,Big_Data_Frameworks,22
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+EMR,Cloud_Platforms_and_Services,9
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Redshift,Databases,34
+AWS Glue,Data_Integration,8
+Java,Programming_Languages,30
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+AWS,Cloud_Platforms_and_Services,74
+Data Lake,Data_Concepts_and_Architectures,18
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+ETL,Data_Concepts_and_Architectures,156
+Git,DevOps_and_CI/CD_Tools,38
+ETL,Concepts,156
+Redshift,Databases,34
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+EMR,Cloud_Platforms_and_Services,9
+Lambda,Cloud_Platforms_and_Services,9
+SQL,Programming_Languages,238
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+Git,DevOps_and_CI/CD_Tools,38
+Python,Programming_Languages,178
+Hive,Big_Data_Frameworks,45
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Machine Learning,Concepts,90
+AI,Concepts,402
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+GCP,Cloud_Platforms_and_Services,44
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Redshift,Databases,34
+Kafka,Streaming,16
+Airflow,Orchestration,24
+Python,Programming_Languages,178
+AI,Machine_Learning_and_AI_Tools,402
+Data Pipeline,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Data Pipeline,Concepts,74
+Python,Programming_Languages,178
+Hive,Big_Data_Frameworks,45
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Machine Learning,Concepts,90
+AI,Concepts,402
+Snowflake,Databases,26
+Azure,Cloud_Platforms_and_Services,68
+Data Lake,Data_Concepts_and_Architectures,18
+Snowflake,Databases,26
+Azure,Cloud_Platforms_and_Services,68
+Data Lake,Data_Concepts_and_Architectures,18
+Python,Programming_Languages,178
+Azure,Cloud_Platforms_and_Services,68
+Data Lake,Data_Concepts_and_Architectures,18
+Python,Programming_Languages,178
+Hive,Big_Data_Frameworks,45
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Machine Learning,Concepts,90
+AI,Concepts,402
+PySpark,Programming_Languages,51
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+Data Lake,Data_Concepts_and_Architectures,18
+Python,Programming_Languages,178
+Azure,Cloud_Platforms_and_Services,68
+Data Lake,Data_Concepts_and_Architectures,18
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+ML,Concepts,23
+Python,Programming_Languages,178
+Hive,Big_Data_Frameworks,45
+Python,Programming_Languages,178
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Machine Learning,Concepts,90
+AI,Concepts,402
+ML,Concepts,23
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+AI,Concepts,402
+GCP,Cloud_Platforms_and_Services,44
+PostgreSQL,Databases,24
+MySQL,Databases,40
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+AI,Concepts,402
+Data Modeling,Concepts,158
+Databricks,Databases,31
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+Hadoop,Big_Data_Frameworks,22
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Quality,Data_Concepts_and_Architectures,74
+Data Modeling,Concepts,158
+Redshift,Databases,34
+Kinesis,Streaming,2
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+Lambda,Cloud_Platforms_and_Services,9
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Data Quality,Data_Concepts_and_Architectures,74
+Machine Learning,Concepts,90
+Airflow,Orchestration,24
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+Kubeflow,Machine_Learning_and_AI_Tools,2
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+AI,Concepts,402
+Informatica,Data_Integration,29
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+Azure,Cloud_Platforms_and_Services,68
+Data Warehouse,Data_Concepts_and_Architectures,16
+Data Quality,Data_Concepts_and_Architectures,74
+Data Warehouse,Concepts,16
+SQL,Programming_Languages,238
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Data Modeling,Data_Concepts_and_Architectures,158
+Machine Learning,Concepts,90
+Data Modeling,Concepts,158
+Databricks,Databases,31
+ADF,Orchestration,6
+Azure Data Factory,Data_Integration,12
+SQL,Programming_Languages,238
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+ADF,Orchestration,6
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+ADF,Orchestration,6
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+Databricks,Databases,31
+ADF,Orchestration,6
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+Databricks,Databases,31
+ADF,Orchestration,6
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+CI/CD,DevOps_and_CI/CD_Tools,5
+Python,Programming_Languages,178
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+Data Pipeline,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Data Pipeline,Concepts,74
+Looker,Visualization_and_BI_Tools,2
+GCP,Cloud_Platforms_and_Services,44
+Agile,Soft_Skills_and_Methodologies,54
+Python,Programming_Languages,178
+Java,Programming_Languages,30
+Data Quality,Data_Concepts_and_Architectures,74
+Agile,Soft_Skills_and_Methodologies,54
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+Big Data,Data_Concepts_and_Architectures,124
+Data Pipeline,Data_Concepts_and_Architectures,74
+Big Data,Concepts,124
+Data Pipeline,Concepts,74
+MySQL,Databases,40
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+ML,Concepts,23
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+AI,Machine_Learning_and_AI_Tools,402
+ELT,Data_Concepts_and_Architectures,26
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Pipeline,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Data Modeling,Concepts,158
+Data Pipeline,Concepts,74
+ELT,Concepts,26
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Machine Learning,Concepts,90
+AI,Concepts,402
+ML,Concepts,23
+Scala,Programming_Languages,69
+Shell,Programming_Languages,20
+Redshift,Databases,34
+BigQuery,Databases,10
+Cassandra,Databases,3
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+AI,Concepts,402
+Data Modeling,Concepts,158
+Databricks,Databases,31
+Talend,Data_Integration,4
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Hive,Big_Data_Frameworks,45
+AI,Machine_Learning_and_AI_Tools,402
+Agile,Soft_Skills_and_Methodologies,54
+Scrum,Soft_Skills_and_Methodologies,15
+AI,Concepts,402
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+AI,Concepts,402
+Data Modeling,Concepts,158
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+SQL,Programming_Languages,238
+Data Governance,Data_Concepts_and_Architectures,21
+Agile,Soft_Skills_and_Methodologies,54
+C++,Programming_Languages,10
+Data Quality,Data_Concepts_and_Architectures,74
+Git,DevOps_and_CI/CD_Tools,38
+MongoDB,Databases,4
+Delta Lake,Databases,1
+Python,Programming_Languages,178
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+ELT,Data_Concepts_and_Architectures,26
+AI,Concepts,402
+ELT,Concepts,26
+Python,Programming_Languages,178
+Hive,Big_Data_Frameworks,45
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+NoSQL,Databases,27
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+NoSQL,Databases,27
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Snowflake,Databases,26
+Airflow,Orchestration,24
+AWS Glue,Data_Integration,8
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+EMR,Cloud_Platforms_and_Services,9
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+AI,Concepts,402
+Data Modeling,Concepts,158
+ETL,Concepts,156
+Redshift,Databases,34
+Python,Programming_Languages,178
+AWS,Cloud_Platforms_and_Services,74
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+HBase,Databases,3
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+GCP,Cloud_Platforms_and_Services,44
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Machine Learning,Machine_Learning_and_AI_Tools,90
+ETL,Data_Concepts_and_Architectures,156
+Data Quality,Data_Concepts_and_Architectures,74
+Data Pipeline,Data_Concepts_and_Architectures,74
+Machine Learning,Concepts,90
+Data Pipeline,Concepts,74
+ETL,Concepts,156
+NoSQL,Databases,27
+Airflow,Orchestration,24
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Data Modeling,Data_Concepts_and_Architectures,158
+Big Data,Concepts,124
+AI,Concepts,402
+Data Modeling,Concepts,158
+PostgreSQL,Databases,24
+Airflow,Orchestration,24
+Denodo,Data_Governance_and_Security,2
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+Documentation,Soft_Skills_and_Methodologies,4
+AI,Concepts,402
+Data Modeling,Concepts,158
+ETL,Concepts,156
+PostgreSQL,Databases,24
+Airflow,Orchestration,24
+Talend,Data_Integration,4
+Denodo,Data_Governance_and_Security,2
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+AI,Concepts,402
+Data Modeling,Concepts,158
+ETL,Concepts,156
+Redshift,Databases,34
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+AWS,Cloud_Platforms_and_Services,74
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Neo4j,Databases,2
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Pipeline,Data_Concepts_and_Architectures,74
+Git,DevOps_and_CI/CD_Tools,38
+AI,Concepts,402
+Data Modeling,Concepts,158
+Data Pipeline,Concepts,74
+ETL,Concepts,156
+OLAP,Concepts,6
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+Data Pipeline,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Data Pipeline,Concepts,74
+PySpark,Programming_Languages,51
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+Git,DevOps_and_CI/CD_Tools,38
+SQL,Programming_Languages,238
+SQL,Programming_Languages,238
+Spark,Big_Data_Frameworks,103
+Big Data,Data_Concepts_and_Architectures,124
+Data Quality,Data_Concepts_and_Architectures,74
+Big Data,Concepts,124
+Python,Programming_Languages,178
+GCP,Cloud_Platforms_and_Services,44
+ETL,Data_Concepts_and_Architectures,156
+Data Lake,Data_Concepts_and_Architectures,18
+Data Quality,Data_Concepts_and_Architectures,74
+Data Pipeline,Data_Concepts_and_Architectures,74
+Data Pipeline,Concepts,74
+ETL,Concepts,156
+Python,Programming_Languages,178
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Governance,Data_Concepts_and_Architectures,21
+AI,Concepts,402
+Data Modeling,Concepts,158
+ETL,Concepts,156
+S3,Databases,21
+Kafka,Streaming,16
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Java,Programming_Languages,30
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+Agile,Soft_Skills_and_Methodologies,54
+Machine Learning,Concepts,90
+AI,Concepts,402
+Snowflake,Databases,26
+Tableau,Visualization_and_BI_Tools,12
+Python,Programming_Languages,178
+Java,Programming_Languages,30
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+SQL,Programming_Languages,238
+ELT,Data_Concepts_and_Architectures,26
+Git,DevOps_and_CI/CD_Tools,38
+ELT,Concepts,26
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+MySQL,Databases,40
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Data Quality,Data_Concepts_and_Architectures,74
+Machine Learning,Concepts,90
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Python,Programming_Languages,178
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Python,Programming_Languages,178
+Azure,Cloud_Platforms_and_Services,68
+Synapse,Cloud_Platforms_and_Services,7
+ETL,Data_Concepts_and_Architectures,156
+ELT,Data_Concepts_and_Architectures,26
+DevOps,Soft_Skills_and_Methodologies,2
+ETL,Concepts,156
+ELT,Concepts,26
+PostgreSQL,Databases,24
+MySQL,Databases,40
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+Hadoop,Big_Data_Frameworks,22
+AWS,Cloud_Platforms_and_Services,74
+Data Quality,Data_Concepts_and_Architectures,74
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Hive,Big_Data_Frameworks,45
+Databricks,Databases,31
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Shell,Programming_Languages,20
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Quality,Data_Concepts_and_Architectures,74
+Data Pipeline,Data_Concepts_and_Architectures,74
+Data Modeling,Concepts,158
+Data Pipeline,Concepts,74
+ETL,Concepts,156
+Snowflake,Databases,26
+Python,Programming_Languages,178
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+AI,Concepts,402
+ETL,Concepts,156
+Unix,Programming_Languages,40
+Shell,Programming_Languages,20
+GCP,Cloud_Platforms_and_Services,44
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Unix,Concepts,40
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Agile,Soft_Skills_and_Methodologies,54
+AI,Concepts,402
+MySQL,Databases,40
+SQL,Programming_Languages,238
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+SQL,Programming_Languages,238
+Data Modeling,Data_Concepts_and_Architectures,158
+Dimensional Modeling,Data_Concepts_and_Architectures,1
+Data Quality,Data_Concepts_and_Architectures,74
+Data Modeling,Concepts,158
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+Data Modeling,Data_Concepts_and_Architectures,158
+Agile,Soft_Skills_and_Methodologies,54
+Data Modeling,Concepts,158
+MySQL,Databases,40
+SQL,Programming_Languages,238
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+Python,Programming_Languages,178
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Python,Programming_Languages,178
+Hive,Big_Data_Frameworks,45
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+ETL,Concepts,156
+Tableau,Visualization_and_BI_Tools,12
+Qlik,Visualization_and_BI_Tools,1
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Python,Programming_Languages,178
+Unix,Programming_Languages,40
+Shell,Programming_Languages,20
+Unix,Concepts,40
+Python,Programming_Languages,178
+Unix,Programming_Languages,40
+Shell,Programming_Languages,20
+Unix,Concepts,40
+ETL,Data_Concepts_and_Architectures,156
+Data Quality,Data_Concepts_and_Architectures,74
+Data Pipeline,Data_Concepts_and_Architectures,74
+Data Pipeline,Concepts,74
+ETL,Concepts,156
+PostgreSQL,Databases,24
+Redshift,Databases,34
+MySQL,Databases,40
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+OLAP,Concepts,6
+Databricks,Databases,31
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+Machine Learning,Machine_Learning_and_AI_Tools,90
+ETL,Data_Concepts_and_Architectures,156
+Machine Learning,Concepts,90
+ETL,Concepts,156
+ML,Concepts,23
+Agile,Soft_Skills_and_Methodologies,54
+MySQL,Databases,40
+SQL,Programming_Languages,238
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Quality,Data_Concepts_and_Architectures,74
+Data Modeling,Concepts,158
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+Data Modeling,Data_Concepts_and_Architectures,158
+Agile,Soft_Skills_and_Methodologies,54
+Data Modeling,Concepts,158
+Unix,Programming_Languages,40
+Shell,Programming_Languages,20
+Hadoop,Big_Data_Frameworks,22
+GCP,Cloud_Platforms_and_Services,44
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Unix,Concepts,40
+MySQL,Databases,40
+Informatica,Data_Integration,29
+Tableau,Visualization_and_BI_Tools,12
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+Databricks,Databases,31
+Python,Programming_Languages,178
+Spark,Big_Data_Frameworks,103
+Synapse,Cloud_Platforms_and_Services,7
+Jenkins,DevOps_and_CI/CD_Tools,2
+Git,DevOps_and_CI/CD_Tools,38
+MySQL,Databases,40
+Informatica,Data_Integration,29
+Talend,Data_Integration,4
+Azure Data Factory,Data_Integration,12
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+Azure,Cloud_Platforms_and_Services,68
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Agile,Soft_Skills_and_Methodologies,54
+Machine Learning,Concepts,90
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+ETL,Data_Concepts_and_Architectures,156
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+ETL,Concepts,156
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+Machine Learning,Concepts,90
+AI,Concepts,402
+Data Modeling,Concepts,158
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+Data Pipeline,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Data Pipeline,Concepts,74
+Kafka,Streaming,16
+Data Pipeline,Data_Concepts_and_Architectures,74
+Data Pipeline,Concepts,74
+Snowflake,Databases,26
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+Snowflake,Databases,26
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+Databricks,Databases,31
+Azure Data Factory,Data_Integration,12
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+AI,Concepts,402
+ETL,Concepts,156
+PostgreSQL,Databases,24
+Azure Data Factory,Data_Integration,12
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+ETL,Data_Concepts_and_Architectures,156
+Data Pipeline,Data_Concepts_and_Architectures,74
+CI/CD,DevOps_and_CI/CD_Tools,5
+Data Pipeline,Concepts,74
+ETL,Concepts,156
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+AI,Concepts,402
+ETL,Concepts,156
+GCP,Cloud_Platforms_and_Services,44
+AI,Machine_Learning_and_AI_Tools,402
+Agile,Soft_Skills_and_Methodologies,54
+AI,Concepts,402
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Airflow,Orchestration,24
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+SQL,Programming_Languages,238
+PostgreSQL,Databases,24
+NiFi,Orchestration,2
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+AWS,Cloud_Platforms_and_Services,74
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+Python,Programming_Languages,178
+AI,Machine_Learning_and_AI_Tools,402
+Agile,Soft_Skills_and_Methodologies,54
+AI,Concepts,402
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+Git,DevOps_and_CI/CD_Tools,38
+Scrum,Soft_Skills_and_Methodologies,15
+S3,Databases,21
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+EMR,Cloud_Platforms_and_Services,9
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+SQL,Programming_Languages,238
+Shell,Programming_Languages,20
+AI,Machine_Learning_and_AI_Tools,402
+Agile,Soft_Skills_and_Methodologies,54
+AI,Concepts,402
+SQL,Programming_Languages,238
+GCP,Cloud_Platforms_and_Services,44
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+Databricks,Databases,31
+S3,Databases,21
+Airflow,Orchestration,24
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+Data Lake,Data_Concepts_and_Architectures,18
+AI,Concepts,402
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+AI,Concepts,402
+NoSQL,Databases,27
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Redshift,Databases,34
+S3,Databases,21
+AWS,Cloud_Platforms_and_Services,74
+Lambda,Cloud_Platforms_and_Services,9
+Agile,Soft_Skills_and_Methodologies,54
+Tableau,Visualization_and_BI_Tools,12
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Quality,Data_Concepts_and_Architectures,74
+Machine Learning,Concepts,90
+AI,Concepts,402
+Data Modeling,Concepts,158
+ML,Concepts,23
+BigQuery,Databases,10
+Python,Programming_Languages,178
+GCP,Cloud_Platforms_and_Services,44
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+MySQL,Databases,40
+SQL,Programming_Languages,238
+Unix,Programming_Languages,40
+AI,Machine_Learning_and_AI_Tools,402
+Data Lake,Data_Concepts_and_Architectures,18
+Data Pipeline,Data_Concepts_and_Architectures,74
+Agile,Soft_Skills_and_Methodologies,54
+Scrum,Soft_Skills_and_Methodologies,15
+AI,Concepts,402
+Data Pipeline,Concepts,74
+Unix,Concepts,40
+Airflow,Orchestration,24
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+AI,Concepts,402
+ETL,Concepts,156
+Redshift,Databases,34
+S3,Databases,21
+AWS Glue,Data_Integration,8
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+AWS,Cloud_Platforms_and_Services,74
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Governance,Data_Concepts_and_Architectures,21
+Data Quality,Data_Concepts_and_Architectures,74
+Data Modeling,Concepts,158
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+Git,DevOps_and_CI/CD_Tools,38
+AI,Concepts,402
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+AI,Concepts,402
+PostgreSQL,Databases,24
+MySQL,Databases,40
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+GCP,Cloud_Platforms_and_Services,44
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+AI,Concepts,402
+Snowflake,Databases,26
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Data Lake,Data_Concepts_and_Architectures,18
+AI,Concepts,402
+ETL,Concepts,156
+Python,Programming_Languages,178
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+AI,Concepts,402
+Data Modeling,Concepts,158
+PostgreSQL,Databases,24
+Redis,Databases,1
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+AI,Machine_Learning_and_AI_Tools,402
+Data Pipeline,Data_Concepts_and_Architectures,74
+CI/CD,DevOps_and_CI/CD_Tools,5
+AI,Concepts,402
+Data Pipeline,Concepts,74
+Kafka,Streaming,16
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+NoSQL,Databases,27
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+C++,Programming_Languages,10
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+PostgreSQL,Databases,24
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+Flink,Big_Data_Frameworks,2
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+Machine Learning,Concepts,90
+AI,Concepts,402
+MySQL,Databases,40
+DynamoDB,Databases,1
+S3,Databases,21
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+Hadoop,Big_Data_Frameworks,22
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Azure Data Factory,Data_Integration,12
+Scala,Programming_Languages,69
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Data Quality,Data_Concepts_and_Architectures,74
+Big Data,Concepts,124
+AI,Concepts,402
+MongoDB,Databases,4
+MySQL,Databases,40
+Cassandra,Databases,3
+NoSQL,Databases,27
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Lambda,Cloud_Platforms_and_Services,9
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+AI,Concepts,402
+AWS,Cloud_Platforms_and_Services,74
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Big Data,Data_Concepts_and_Architectures,124
+Data Modeling,Data_Concepts_and_Architectures,158
+Big Data,Concepts,124
+AI,Concepts,402
+Data Modeling,Concepts,158
+ETL,Concepts,156
+Informatica,Data_Integration,29
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+GCP,Cloud_Platforms_and_Services,44
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Data Modeling,Data_Concepts_and_Architectures,158
+Machine Learning,Concepts,90
+Data Modeling,Concepts,158
+AI,Machine_Learning_and_AI_Tools,402
+Agile,Soft_Skills_and_Methodologies,54
+AI,Concepts,402
+Redshift,Databases,34
+S3,Databases,21
+AWS,Cloud_Platforms_and_Services,74
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Pipeline,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Data Modeling,Concepts,158
+Data Pipeline,Concepts,74
+ETL,Concepts,156
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+C++,Programming_Languages,10
+ETL,Data_Concepts_and_Architectures,156
+ELT,Data_Concepts_and_Architectures,26
+ETL,Concepts,156
+ELT,Concepts,26
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Hive,Big_Data_Frameworks,45
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Control-M,Orchestration,3
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+Unix,Programming_Languages,40
+AI,Machine_Learning_and_AI_Tools,402
+Agile,Soft_Skills_and_Methodologies,54
+AI,Concepts,402
+Unix,Concepts,40
+Databricks,Databases,31
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+Azure,Cloud_Platforms_and_Services,68
+GCP,Cloud_Platforms_and_Services,44
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+AI,Concepts,402
+ETL,Concepts,156
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Data Lake,Data_Concepts_and_Architectures,18
+Agile,Soft_Skills_and_Methodologies,54
+Scrum,Soft_Skills_and_Methodologies,15
+AI,Concepts,402
+ETL,Concepts,156
+Snowflake,Databases,26
+Databricks,Databases,31
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Snowflake,Databases,26
+Kafka,Streaming,16
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Spark,Big_Data_Frameworks,103
+GCP,Cloud_Platforms_and_Services,44
+Snowflake,Databases,26
+GCP,Cloud_Platforms_and_Services,44
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Data Governance,Data_Concepts_and_Architectures,21
+Data Quality,Data_Concepts_and_Architectures,74
+Git,DevOps_and_CI/CD_Tools,38
+Machine Learning,Concepts,90
+Airflow,Orchestration,24
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Redshift,Databases,34
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+Redshift,Databases,34
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+BigQuery,Databases,10
+Java,Programming_Languages,30
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+GCP,Cloud_Platforms_and_Services,44
+Git,DevOps_and_CI/CD_Tools,38
+Kafka,Streaming,16
+Python,Programming_Languages,178
+Hadoop,Big_Data_Frameworks,22
+Spark,Big_Data_Frameworks,103
+Git,DevOps_and_CI/CD_Tools,38
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+ML,Concepts,23
+MySQL,Databases,40
+Alteryx,Data_Integration,2
+SQL,Programming_Languages,238
+GCP,Cloud_Platforms_and_Services,44
+Agile,Soft_Skills_and_Methodologies,54
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+AWS,Cloud_Platforms_and_Services,74
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Informatica,Data_Integration,29
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+AI,Machine_Learning_and_AI_Tools,402
+Problem Solving,Soft_Skills_and_Methodologies,2
+AI,Concepts,402
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+GCP,Cloud_Platforms_and_Services,44
+Java,Programming_Languages,30
+GCP,Cloud_Platforms_and_Services,44
+Terraform,DevOps_and_CI/CD_Tools,2
+Git,DevOps_and_CI/CD_Tools,38
+Agile,Soft_Skills_and_Methodologies,54
+ML,Concepts,23
+Spark,Big_Data_Frameworks,103
+GCP,Cloud_Platforms_and_Services,44
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Machine Learning,Concepts,90
+AI,Concepts,402
+Redshift,Databases,34
+S3,Databases,21
+AWS Glue,Data_Integration,8
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+AI,Concepts,402
+ETL,Concepts,156
+AI,Machine_Learning_and_AI_Tools,402
+Documentation,Soft_Skills_and_Methodologies,4
+AI,Concepts,402
+PostgreSQL,Databases,24
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+SQL,Programming_Languages,238
+PostgreSQL,Databases,24
+SQL,Programming_Languages,238
+Data Quality,Data_Concepts_and_Architectures,74
+Agile,Soft_Skills_and_Methodologies,54
+PostgreSQL,Databases,24
+Redshift,Databases,34
+MySQL,Databases,40
+S3,Databases,21
+Azure Data Factory,Data_Integration,12
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+Lambda,Cloud_Platforms_and_Services,9
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+AI,Concepts,402
+Data Modeling,Concepts,158
+Databricks,Databases,31
+Redshift,Databases,34
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+Azure,Cloud_Platforms_and_Services,68
+ETL,Data_Concepts_and_Architectures,156
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+ETL,Concepts,156
+Redshift,Databases,34
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+C++,Programming_Languages,10
+AWS,Cloud_Platforms_and_Services,74
+EMR,Cloud_Platforms_and_Services,9
+Git,DevOps_and_CI/CD_Tools,38
+Python,Programming_Languages,178
+Azure,Cloud_Platforms_and_Services,68
+Data Lake,Data_Concepts_and_Architectures,18
+Big Data,Data_Concepts_and_Architectures,124
+Data Pipeline,Data_Concepts_and_Architectures,74
+Problem Solving,Soft_Skills_and_Methodologies,2
+Big Data,Concepts,124
+Data Pipeline,Concepts,74
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+Data Governance,Data_Concepts_and_Architectures,21
+AI,Concepts,402
+SQL,Programming_Languages,238
+Redshift,Databases,34
+S3,Databases,21
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+GCP,Cloud_Platforms_and_Services,44
+EMR,Cloud_Platforms_and_Services,9
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Machine Learning,Concepts,90
+Databricks,Databases,31
+Hadoop,Big_Data_Frameworks,22
+GCP,Cloud_Platforms_and_Services,44
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Data Quality,Data_Concepts_and_Architectures,74
+Machine Learning,Concepts,90
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+PostgreSQL,Databases,24
+MySQL,Databases,40
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+ELT,Data_Concepts_and_Architectures,26
+AI,Concepts,402
+ETL,Concepts,156
+ELT,Concepts,26
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Unix,Programming_Languages,40
+Big Data,Data_Concepts_and_Architectures,124
+Data Modeling,Data_Concepts_and_Architectures,158
+Jira,Soft_Skills_and_Methodologies,6
+Big Data,Concepts,124
+Data Modeling,Concepts,158
+ML,Concepts,23
+Unix,Concepts,40
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Informatica,Data_Integration,29
+Shell,Programming_Languages,20
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+MySQL,Databases,40
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+Hadoop,Big_Data_Frameworks,22
+Spark,Big_Data_Frameworks,103
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+ELT,Data_Concepts_and_Architectures,26
+AI,Concepts,402
+ETL,Concepts,156
+ELT,Concepts,26
+Kafka,Streaming,16
+Kubernetes,Orchestration,4
+Azure Data Factory,Data_Integration,12
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+ELT,Data_Concepts_and_Architectures,26
+Docker,DevOps_and_CI/CD_Tools,3
+Kubernetes,DevOps_and_CI/CD_Tools,4
+ELT,Concepts,26
+Control-M,Orchestration,3
+Scala,Programming_Languages,69
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+C++,Programming_Languages,10
+SQL,Programming_Languages,238
+Spark,Big_Data_Frameworks,103
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Git,DevOps_and_CI/CD_Tools,38
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+MySQL,Databases,40
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+Shell,Programming_Languages,20
+AWS,Cloud_Platforms_and_Services,74
+GCP,Cloud_Platforms_and_Services,44
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Git,DevOps_and_CI/CD_Tools,38
+Agile,Soft_Skills_and_Methodologies,54
+Machine Learning,Concepts,90
+S3,Databases,21
+Data Governance,Data_Concepts_and_Architectures,21
+Airflow,Orchestration,24
+Python,Programming_Languages,178
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Data Pipeline,Data_Concepts_and_Architectures,74
+Git,DevOps_and_CI/CD_Tools,38
+AI,Concepts,402
+Data Pipeline,Concepts,74
+ETL,Concepts,156
+PostgreSQL,Databases,24
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+AI,Concepts,402
+Data Modeling,Concepts,158
+SQL,Programming_Languages,238
+MySQL,Databases,40
+SQL,Programming_Languages,238
+Data Quality,Data_Concepts_and_Architectures,74
+Java,Programming_Languages,30
+Spark,Big_Data_Frameworks,103
+Databricks,Databases,31
+C++,Programming_Languages,10
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+Git,DevOps_and_CI/CD_Tools,38
+Data Modeling,Concepts,158
+ETL,Concepts,156
+GCP,Cloud_Platforms_and_Services,44
+Agile,Soft_Skills_and_Methodologies,54
+SQL,Programming_Languages,238
+Agile,Soft_Skills_and_Methodologies,54
+Scrum,Soft_Skills_and_Methodologies,15
+PostgreSQL,Databases,24
+Redshift,Databases,34
+BigQuery,Databases,10
+Airflow,Orchestration,24
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+AI,Concepts,402
+ETL,Concepts,156
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Governance,Data_Concepts_and_Architectures,21
+Data Pipeline,Data_Concepts_and_Architectures,74
+Git,DevOps_and_CI/CD_Tools,38
+AI,Concepts,402
+Data Modeling,Concepts,158
+Data Pipeline,Concepts,74
+Python,Programming_Languages,178
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Machine Learning,Concepts,90
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+Data Quality,Data_Concepts_and_Architectures,74
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+Documentation,Soft_Skills_and_Methodologies,4
+AI,Concepts,402
+Jira,Soft_Skills_and_Methodologies,6
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+ML,Concepts,23
+MySQL,Databases,40
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Agile,Soft_Skills_and_Methodologies,54
+AI,Concepts,402
+ML,Concepts,23
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+Machine Learning,Concepts,90
+AI,Concepts,402
+Control-M,Orchestration,3
+Informatica,Data_Integration,29
+Unix,Programming_Languages,40
+Unix,Concepts,40
+SQL,Programming_Languages,238
+Agile,Soft_Skills_and_Methodologies,54
+Scrum,Soft_Skills_and_Methodologies,15
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+ELT,Data_Concepts_and_Architectures,26
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+ETL,Concepts,156
+ELT,Concepts,26
+AI,Machine_Learning_and_AI_Tools,402
+Data Warehouse,Data_Concepts_and_Architectures,16
+Data Modeling,Data_Concepts_and_Architectures,158
+AI,Concepts,402
+Data Modeling,Concepts,158
+Data Warehouse,Concepts,16
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Git,DevOps_and_CI/CD_Tools,38
+AI,Concepts,402
+Looker,Visualization_and_BI_Tools,2
+SQL,Programming_Languages,238
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Quality,Data_Concepts_and_Architectures,74
+Data Modeling,Concepts,158
+AWS,Cloud_Platforms_and_Services,74
+Azure,Cloud_Platforms_and_Services,68
+GCP,Cloud_Platforms_and_Services,44
+Data Governance,Data_Concepts_and_Architectures,21
+ML,Concepts,23
+Data Quality,Data_Concepts_and_Architectures,74
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+Agile,Soft_Skills_and_Methodologies,54
+SQL,Programming_Languages,238
+Unix,Programming_Languages,40
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Agile,Soft_Skills_and_Methodologies,54
+Machine Learning,Concepts,90
+Unix,Concepts,40
+SQL,Programming_Languages,238
+C++,Programming_Languages,10
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Agile,Soft_Skills_and_Methodologies,54
+Scrum,Soft_Skills_and_Methodologies,15
+Machine Learning,Concepts,90
+Snowflake,Databases,26
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+Synapse,Cloud_Platforms_and_Services,7
+MySQL,Databases,40
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+GCP,Cloud_Platforms_and_Services,44
+Big Data,Data_Concepts_and_Architectures,124
+Agile,Soft_Skills_and_Methodologies,54
+Big Data,Concepts,124
+MySQL,Databases,40
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+Big Data,Data_Concepts_and_Architectures,124
+Agile,Soft_Skills_and_Methodologies,54
+Big Data,Concepts,124
+MySQL,Databases,40
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+GCP,Cloud_Platforms_and_Services,44
+Big Data,Data_Concepts_and_Architectures,124
+Agile,Soft_Skills_and_Methodologies,54
+Big Data,Concepts,124
+MySQL,Databases,40
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+Big Data,Data_Concepts_and_Architectures,124
+Agile,Soft_Skills_and_Methodologies,54
+Big Data,Concepts,124
+Java,Programming_Languages,30
+Big Data,Data_Concepts_and_Architectures,124
+Git,DevOps_and_CI/CD_Tools,38
+Jira,Soft_Skills_and_Methodologies,6
+Big Data,Concepts,124
+Scala,Programming_Languages,69
+Big Data,Data_Concepts_and_Architectures,124
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Governance,Data_Concepts_and_Architectures,21
+Big Data,Concepts,124
+Data Modeling,Concepts,158
+Informatica,Data_Integration,29
+Tableau,Visualization_and_BI_Tools,12
+SQL,Programming_Languages,238
+Unix,Programming_Languages,40
+Hadoop,Big_Data_Frameworks,22
+Azure,Cloud_Platforms_and_Services,68
+GCP,Cloud_Platforms_and_Services,44
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+AI,Concepts,402
+ETL,Concepts,156
+Unix,Concepts,40
+Data Quality,Data_Concepts_and_Architectures,74
+Agile,Soft_Skills_and_Methodologies,54
+Scrum,Soft_Skills_and_Methodologies,15
+Azure,Cloud_Platforms_and_Services,68
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Governance,Data_Concepts_and_Architectures,21
+Data Quality,Data_Concepts_and_Architectures,74
+Data Modeling,Concepts,158
+Python,Programming_Languages,178
+Kafka,Streaming,16
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Data Quality,Data_Concepts_and_Architectures,74
+Data Pipeline,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Data Pipeline,Concepts,74
+ETL,Concepts,156
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Data Warehouse,Data_Concepts_and_Architectures,16
+Data Lake,Data_Concepts_and_Architectures,18
+Machine Learning,Concepts,90
+AI,Concepts,402
+Data Warehouse,Concepts,16
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+ELT,Data_Concepts_and_Architectures,26
+Data Governance,Data_Concepts_and_Architectures,21
+Git,DevOps_and_CI/CD_Tools,38
+ELT,Concepts,26
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+AI,Concepts,402
+ETL,Concepts,156
+Snowflake,Databases,26
+AWS,Cloud_Platforms_and_Services,74
+Data Pipeline,Data_Concepts_and_Architectures,74
+Data Pipeline,Concepts,74
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Airflow,Orchestration,24
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Snowflake,Databases,26
+Alteryx,Data_Integration,2
+Tableau,Visualization_and_BI_Tools,12
+Python,Programming_Languages,178
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+AI,Concepts,402
+Data Modeling,Concepts,158
+ETL,Concepts,156
+Hadoop,Big_Data_Frameworks,22
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+AI,Machine_Learning_and_AI_Tools,402
+Data Lake,Data_Concepts_and_Architectures,18
+Data Modeling,Data_Concepts_and_Architectures,158
+AI,Concepts,402
+Data Modeling,Concepts,158
+Python,Programming_Languages,178
+Git,DevOps_and_CI/CD_Tools,38
+Python,Programming_Languages,178
+Data Quality,Data_Concepts_and_Architectures,74
+Agile,Soft_Skills_and_Methodologies,54
+SQL,Programming_Languages,238
+Data Pipeline,Data_Concepts_and_Architectures,74
+Data Pipeline,Concepts,74
+ETL,Data_Concepts_and_Architectures,156
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+ETL,Concepts,156
+Java,Programming_Languages,30
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+Azure Data Factory,Data_Integration,12
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+Synapse,Cloud_Platforms_and_Services,7
+Data Lake,Data_Concepts_and_Architectures,18
+Azure,Cloud_Platforms_and_Services,68
+Azure Data Factory,Data_Integration,12
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+Synapse,Cloud_Platforms_and_Services,7
+Data Lake,Data_Concepts_and_Architectures,18
+AWS,Cloud_Platforms_and_Services,74
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+MySQL,Databases,40
+SQL,Programming_Languages,238
+Unix,Programming_Languages,40
+Shell,Programming_Languages,20
+Unix,Concepts,40
+MySQL,Databases,40
+SQL,Programming_Languages,238
+Unix,Programming_Languages,40
+Shell,Programming_Languages,20
+Unix,Concepts,40
+MySQL,Databases,40
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Java,Programming_Languages,30
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+S3,Databases,21
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+ETL,Data_Concepts_and_Architectures,156
+Agile,Soft_Skills_and_Methodologies,54
+ETL,Concepts,156
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Scrum,Soft_Skills_and_Methodologies,15
+AI,Concepts,402
+ETL,Concepts,156
+BigQuery,Databases,10
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+GCP,Cloud_Platforms_and_Services,44
+Azure Data Factory,Data_Integration,12
+Azure,Cloud_Platforms_and_Services,68
+Data Quality,Data_Concepts_and_Architectures,74
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+S3,Databases,21
+AWS,Cloud_Platforms_and_Services,74
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+ML,Concepts,23
+Databricks,Databases,31
+ADF,Orchestration,6
+Scala,Programming_Languages,69
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Pipeline,Data_Concepts_and_Architectures,74
+Agile,Soft_Skills_and_Methodologies,54
+Big Data,Concepts,124
+AI,Concepts,402
+Data Modeling,Concepts,158
+Data Pipeline,Concepts,74
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+ETL,Data_Concepts_and_Architectures,156
+Docker,DevOps_and_CI/CD_Tools,3
+ETL,Concepts,156
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+HBase,Databases,3
+NoSQL,Databases,27
+Kafka,Streaming,16
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+Scala,Programming_Languages,69
+Hadoop,Big_Data_Frameworks,22
+Spark,Big_Data_Frameworks,103
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Snowflake,Databases,26
+Tableau,Visualization_and_BI_Tools,12
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+Shell,Programming_Languages,20
+GCP,Cloud_Platforms_and_Services,44
+Snowflake,Databases,26
+Redshift,Databases,34
+BigQuery,Databases,10
+MySQL,Databases,40
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Quality,Data_Concepts_and_Architectures,74
+Data Modeling,Concepts,158
+BigQuery,Databases,10
+Kafka,Streaming,16
+Airflow,Orchestration,24
+Hadoop,Big_Data_Frameworks,22
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+AI,Concepts,402
+Data Modeling,Concepts,158
+ETL,Concepts,156
+Java,Programming_Languages,30
+Beam,Big_Data_Frameworks,1
+Agile,Soft_Skills_and_Methodologies,54
+ML,Concepts,23
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+AI,Concepts,402
+ETL,Concepts,156
+BigQuery,Databases,10
+Kafka,Streaming,16
+Airflow,Orchestration,24
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+ELT,Data_Concepts_and_Architectures,26
+Jenkins,DevOps_and_CI/CD_Tools,2
+Git,DevOps_and_CI/CD_Tools,38
+GitHub Actions,DevOps_and_CI/CD_Tools,1
+AI,Concepts,402
+ETL,Concepts,156
+ELT,Concepts,26
+Redshift,Databases,34
+NoSQL,Databases,27
+Kafka,Streaming,16
+AWS Glue,Data_Integration,8
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+SQL,Programming_Languages,238
+Data Quality,Data_Concepts_and_Architectures,74
+Databricks,Databases,31
+dbt,Orchestration,4
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Data Pipeline,Data_Concepts_and_Architectures,74
+Machine Learning,Concepts,90
+Data Pipeline,Concepts,74
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+PostgreSQL,Databases,24
+Snowflake,Databases,26
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Databricks,Databases,31
+Python,Programming_Languages,178
+AWS,Cloud_Platforms_and_Services,74
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+GCP,Cloud_Platforms_and_Services,44
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+Airflow,Orchestration,24
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+ELT,Data_Concepts_and_Architectures,26
+Data Lake,Data_Concepts_and_Architectures,18
+AI,Concepts,402
+ETL,Concepts,156
+ELT,Concepts,26
+MySQL,Databases,40
+SQL,Programming_Languages,238
+Unix,Programming_Languages,40
+AWS,Cloud_Platforms_and_Services,74
+Git,DevOps_and_CI/CD_Tools,38
+Unix,Concepts,40
+Kubernetes,Orchestration,4
+Python,Programming_Languages,178
+Hive,Big_Data_Frameworks,45
+AWS,Cloud_Platforms_and_Services,74
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Kubernetes,DevOps_and_CI/CD_Tools,4
+Machine Learning,Concepts,90
+AI,Concepts,402
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+AI,Machine_Learning_and_AI_Tools,402
+Data Governance,Data_Concepts_and_Architectures,21
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+GCP,Cloud_Platforms_and_Services,44
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+CI/CD,DevOps_and_CI/CD_Tools,5
+AI,Concepts,402
+Data Modeling,Concepts,158
+AWS Glue,Data_Integration,8
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+ETL,Data_Concepts_and_Architectures,156
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+ETL,Concepts,156
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+AWS Glue,Data_Integration,8
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+Python,Programming_Languages,178
+Java,Programming_Languages,30
+Scala,Programming_Languages,69
+Unix,Programming_Languages,40
+Hadoop,Big_Data_Frameworks,22
+Big Data,Data_Concepts_and_Architectures,124
+Data Quality,Data_Concepts_and_Architectures,74
+Big Data,Concepts,124
+Unix,Concepts,40
+Databricks,Databases,31
+Azure Data Factory,Data_Integration,12
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+Synapse,Cloud_Platforms_and_Services,7
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+Shell,Programming_Languages,20
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+Azure,Cloud_Platforms_and_Services,68
+Snowflake,Databases,26
+SQL,Programming_Languages,238
+Hadoop,Big_Data_Frameworks,22
+Spark,Big_Data_Frameworks,103
+Databricks,Databases,31
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Hive,Big_Data_Frameworks,45
+Azure,Cloud_Platforms_and_Services,68
+ML,Concepts,23
+Python,Programming_Languages,178
+Hive,Big_Data_Frameworks,45
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Big Data,Data_Concepts_and_Architectures,124
+Data Modeling,Data_Concepts_and_Architectures,158
+Big Data,Concepts,124
+AI,Concepts,402
+Data Modeling,Concepts,158
+ETL,Concepts,156
+Informatica,Data_Integration,29
+Python,Programming_Languages,178
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Data Quality,Data_Concepts_and_Architectures,74
+Agile,Soft_Skills_and_Methodologies,54
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Data Pipeline,Data_Concepts_and_Architectures,74
+Machine Learning,Concepts,90
+AI,Concepts,402
+Data Pipeline,Concepts,74
+BigQuery,Databases,10
+Python,Programming_Languages,178
+Python,Programming_Languages,178
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Data Modeling,Data_Concepts_and_Architectures,158
+Big Data,Concepts,124
+AI,Concepts,402
+Data Modeling,Concepts,158
+Snowflake,Databases,26
+SQL,Programming_Languages,238
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+Python,Programming_Languages,178
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+ETL,Concepts,156
+Python,Programming_Languages,178
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+ETL,Concepts,156
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+AWS,Cloud_Platforms_and_Services,74
+Data Quality,Data_Concepts_and_Architectures,74
+Python,Programming_Languages,178
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+ETL,Concepts,156
+SQL,Programming_Languages,238
+Snowflake,Databases,26
+SQL,Programming_Languages,238
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Agile,Soft_Skills_and_Methodologies,54
+Machine Learning,Concepts,90
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Data Modeling,Concepts,158
+Redshift,Databases,34
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+EMR,Cloud_Platforms_and_Services,9
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+AI,Concepts,402
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Hadoop,Big_Data_Frameworks,22
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+AI,Concepts,402
+ETL,Concepts,156
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+Azure,Cloud_Platforms_and_Services,68
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+NoSQL,Databases,27
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+ETL,Data_Concepts_and_Architectures,156
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+ETL,Concepts,156
+Redshift,Databases,34
+S3,Databases,21
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+Data Quality,Data_Concepts_and_Architectures,74
+Redshift,Databases,34
+S3,Databases,21
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+Data Quality,Data_Concepts_and_Architectures,74
+S3,Databases,21
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+Git,DevOps_and_CI/CD_Tools,38
+Jira,Soft_Skills_and_Methodologies,6
+Databricks,Databases,31
+Python,Programming_Languages,178
+Data Modeling,Data_Concepts_and_Architectures,158
+DevOps,Soft_Skills_and_Methodologies,2
+Data Modeling,Concepts,158
+Redshift,Databases,34
+S3,Databases,21
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+AWS,Cloud_Platforms_and_Services,74
+Azure,Cloud_Platforms_and_Services,68
+GCP,Cloud_Platforms_and_Services,44
+Lambda,Cloud_Platforms_and_Services,9
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+ML,Concepts,23
+HBase,Databases,3
+Python,Programming_Languages,178
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+AI,Concepts,402
+Data Modeling,Concepts,158
+MySQL,Databases,40
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+ML,Concepts,23
+Databricks,Databases,31
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Java,Programming_Languages,30
+Scala,Programming_Languages,69
+Hadoop,Big_Data_Frameworks,22
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+Data Pipeline,Data_Concepts_and_Architectures,74
+CI/CD,DevOps_and_CI/CD_Tools,5
+AI,Concepts,402
+Data Pipeline,Concepts,74
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Python,Programming_Languages,178
+Hadoop,Big_Data_Frameworks,22
+Hive,Big_Data_Frameworks,45
+GCP,Cloud_Platforms_and_Services,44
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+AWS,Cloud_Platforms_and_Services,74
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+PostgreSQL,Databases,24
+MySQL,Databases,40
+SQL,Programming_Languages,238
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Quality,Data_Concepts_and_Architectures,74
+Data Modeling,Concepts,158
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+Data Pipeline,Data_Concepts_and_Architectures,74
+Data Pipeline,Concepts,74
+SQL,Programming_Languages,238
+Data Quality,Data_Concepts_and_Architectures,74
+Agile,Soft_Skills_and_Methodologies,54
+Scrum,Soft_Skills_and_Methodologies,15
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Pipeline,Data_Concepts_and_Architectures,74
+Scrum,Soft_Skills_and_Methodologies,15
+Data Modeling,Concepts,158
+Data Pipeline,Concepts,74
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+Pig,Big_Data_Frameworks,1
+Big Data,Data_Concepts_and_Architectures,124
+Data Pipeline,Data_Concepts_and_Architectures,74
+Big Data,Concepts,124
+Data Pipeline,Concepts,74
+S3,Databases,21
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+Lambda,Cloud_Platforms_and_Services,9
+Big Data,Data_Concepts_and_Architectures,124
+Data Pipeline,Data_Concepts_and_Architectures,74
+Big Data,Concepts,124
+Data Pipeline,Concepts,74
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Agile,Soft_Skills_and_Methodologies,54
+Machine Learning,Concepts,90
+Hadoop,Big_Data_Frameworks,22
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Data Quality,Data_Concepts_and_Architectures,74
+Big Data,Concepts,124
+AI,Concepts,402
+NoSQL,Databases,27
+Azure Data Factory,Data_Integration,12
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Hadoop,Big_Data_Frameworks,22
+Azure,Cloud_Platforms_and_Services,68
+GCP,Cloud_Platforms_and_Services,44
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Quality,Data_Concepts_and_Architectures,74
+Data Modeling,Concepts,158
+Data Quality,Data_Concepts_and_Architectures,74
+Agile,Soft_Skills_and_Methodologies,54
+Scrum,Soft_Skills_and_Methodologies,15
+Kafka,Streaming,16
+Airflow,Orchestration,24
+Hadoop,Big_Data_Frameworks,22
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+Azure,Cloud_Platforms_and_Services,68
+GCP,Cloud_Platforms_and_Services,44
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+PowerBI,Visualization_and_BI_Tools,2
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Quality,Data_Concepts_and_Architectures,74
+Git,DevOps_and_CI/CD_Tools,38
+Data Modeling,Concepts,158
+AWS,Cloud_Platforms_and_Services,74
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+AI,Concepts,402
+ETL,Concepts,156
+Kafka,Streaming,16
+Talend,Data_Integration,4
+SQL,Programming_Languages,238
+Hadoop,Big_Data_Frameworks,22
+Spark,Big_Data_Frameworks,103
+Redshift,Databases,34
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+Big Data,Data_Concepts_and_Architectures,124
+Docker,DevOps_and_CI/CD_Tools,3
+Big Data,Concepts,124
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Machine Learning,Concepts,90
+AI,Concepts,402
+Redshift,Databases,34
+S3,Databases,21
+Python,Programming_Languages,178
+Java,Programming_Languages,30
+C++,Programming_Languages,10
+AWS,Cloud_Platforms_and_Services,74
+EMR,Cloud_Platforms_and_Services,9
+Lambda,Cloud_Platforms_and_Services,9
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+AI,Machine_Learning_and_AI_Tools,402
+Data Pipeline,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Data Pipeline,Concepts,74
+Airflow,Orchestration,24
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Quality,Data_Concepts_and_Architectures,74
+Git,DevOps_and_CI/CD_Tools,38
+Agile,Soft_Skills_and_Methodologies,54
+Data Modeling,Concepts,158
+Tableau,Visualization_and_BI_Tools,12
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+Redshift,Databases,34
+S3,Databases,21
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+C++,Programming_Languages,10
+AWS,Cloud_Platforms_and_Services,74
+EMR,Cloud_Platforms_and_Services,9
+Lambda,Cloud_Platforms_and_Services,9
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Informatica,Data_Integration,29
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+Data Warehouse,Data_Concepts_and_Architectures,16
+Data Modeling,Data_Concepts_and_Architectures,158
+Agile,Soft_Skills_and_Methodologies,54
+AI,Concepts,402
+Data Modeling,Concepts,158
+Data Warehouse,Concepts,16
+SQL,Programming_Languages,238
+Agile,Soft_Skills_and_Methodologies,54
+ML,Concepts,23
+PostgreSQL,Databases,24
+Databricks,Databases,31
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+AI,Concepts,402
+Data Modeling,Concepts,158
+Python,Programming_Languages,178
+Unix,Programming_Languages,40
+Data Governance,Data_Concepts_and_Architectures,21
+Data Pipeline,Data_Concepts_and_Architectures,74
+Data Pipeline,Concepts,74
+Unix,Concepts,40
+Fivetran,Data_Integration,1
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+GCP,Cloud_Platforms_and_Services,44
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Data Modeling,Concepts,158
+Databricks,Databases,31
+Python,Programming_Languages,178
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+Azure,Cloud_Platforms_and_Services,68
+GCP,Cloud_Platforms_and_Services,44
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+Big Data,Data_Concepts_and_Architectures,124
+Data Governance,Data_Concepts_and_Architectures,21
+Big Data,Concepts,124
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Redshift,Databases,34
+MySQL,Databases,40
+SQL,Programming_Languages,238
+Data Quality,Data_Concepts_and_Architectures,74
+OLAP,Concepts,6
+Unix,Programming_Languages,40
+Shell,Programming_Languages,20
+GCP,Cloud_Platforms_and_Services,44
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Unix,Concepts,40
+Airflow,Orchestration,24
+AI,Machine_Learning_and_AI_Tools,402
+Data Pipeline,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Data Pipeline,Concepts,74
+MySQL,Databases,40
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Python,Programming_Languages,178
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Machine Learning,Concepts,90
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+Azure,Cloud_Platforms_and_Services,68
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Machine Learning,Concepts,90
+AI,Concepts,402
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Agile,Soft_Skills_and_Methodologies,54
+Scrum,Soft_Skills_and_Methodologies,15
+Machine Learning,Concepts,90
+AI,Concepts,402
+SQL,Programming_Languages,238
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+BigQuery,Databases,10
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+Data Warehouse,Data_Concepts_and_Architectures,16
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+AI,Concepts,402
+ETL,Concepts,156
+Data Warehouse,Concepts,16
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+AI,Concepts,402
+AI,Machine_Learning_and_AI_Tools,402
+Agile,Soft_Skills_and_Methodologies,54
+AI,Concepts,402
+Shell,Programming_Languages,20
+SQL,Programming_Languages,238
+Databricks,Databases,31
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+Databricks,Databases,31
+Airflow,Orchestration,24
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+AI,Concepts,402
+Databricks,Databases,31
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+Data Lake,Data_Concepts_and_Architectures,18
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Governance,Data_Concepts_and_Architectures,21
+Data Modeling,Concepts,158
+Documentation,Soft_Skills_and_Methodologies,4
+Informatica,Data_Integration,29
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Quality,Data_Concepts_and_Architectures,74
+Data Modeling,Concepts,158
+Data Quality,Data_Concepts_and_Architectures,74
+Airflow,Orchestration,24
+dbt,Orchestration,4
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+AI,Concepts,402
+ETL,Concepts,156
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+PostgreSQL,Databases,24
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Unix,Programming_Languages,40
+Shell,Programming_Languages,20
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Machine Learning,Concepts,90
+AI,Concepts,402
+Unix,Concepts,40
+PostgreSQL,Databases,24
+MySQL,Databases,40
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+AI,Machine_Learning_and_AI_Tools,402
+ETL,Data_Concepts_and_Architectures,156
+ELT,Data_Concepts_and_Architectures,26
+AI,Concepts,402
+ETL,Concepts,156
+ELT,Concepts,26
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Machine Learning,Concepts,90
+AI,Concepts,402
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Java,Programming_Languages,30
+ETL,Data_Concepts_and_Architectures,156
+Git,DevOps_and_CI/CD_Tools,38
+Agile,Soft_Skills_and_Methodologies,54
+ETL,Concepts,156
+AWS Glue,Data_Integration,8
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+AWS,Cloud_Platforms_and_Services,74
+AI,Machine_Learning_and_AI_Tools,402
+Terraform,DevOps_and_CI/CD_Tools,2
+AI,Concepts,402
+Airflow,Orchestration,24
+Python,Programming_Languages,178
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+MySQL,Databases,40
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+Shell,Programming_Languages,20
+Scala,Programming_Languages,69
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+Data Pipeline,Data_Concepts_and_Architectures,74
+Git,DevOps_and_CI/CD_Tools,38
+AI,Concepts,402
+Data Pipeline,Concepts,74
+SQL,Programming_Languages,238
+Rust,Programming_Languages,1
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+Snowflake,Databases,26
+Redshift,Databases,34
+Kafka,Streaming,16
+Airflow,Orchestration,24
+dbt,Orchestration,4
+SQL,Programming_Languages,238
+Spark,Big_Data_Frameworks,103
+Synapse,Cloud_Platforms_and_Services,7
+AI,Machine_Learning_and_AI_Tools,402
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Governance,Data_Concepts_and_Architectures,21
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Data Modeling,Concepts,158
+Python,Programming_Languages,178
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+NoSQL,Databases,27
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Java,Programming_Languages,30
+Scala,Programming_Languages,69
+GCP,Cloud_Platforms_and_Services,44
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Big Data,Data_Concepts_and_Architectures,124
+Data Modeling,Data_Concepts_and_Architectures,158
+Big Data,Concepts,124
+Machine Learning,Concepts,90
+Data Modeling,Concepts,158
+PostgreSQL,Databases,24
+SQL,Programming_Languages,238
+OLAP,Concepts,6
+OLTP,Concepts,1
+Agile,Soft_Skills_and_Methodologies,54
+OLAP,Concepts,6
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Scala,Programming_Languages,69
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+Data Pipeline,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Data Pipeline,Concepts,74
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+ETL,Concepts,156
+MySQL,Databases,40
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Databricks,Databases,31
+GCP,Cloud_Platforms_and_Services,44
+Data Governance,Data_Concepts_and_Architectures,21
+Git,DevOps_and_CI/CD_Tools,38
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+SQL,Programming_Languages,238
+Data Quality,Data_Concepts_and_Architectures,74
+MongoDB,Databases,4
+Informatica,Data_Integration,29
+Git,DevOps_and_CI/CD_Tools,38
+Snowflake,Databases,26
+ETL,Data_Concepts_and_Architectures,156
+Git,DevOps_and_CI/CD_Tools,38
+ETL,Concepts,156
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+Databricks,Databases,31
+GCP,Cloud_Platforms_and_Services,44
+Data Governance,Data_Concepts_and_Architectures,21
+Git,DevOps_and_CI/CD_Tools,38
+Tableau,Visualization_and_BI_Tools,12
+Python,Programming_Languages,178
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Governance,Data_Concepts_and_Architectures,21
+Data Modeling,Concepts,158
+Scala,Programming_Languages,69
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+AI,Machine_Learning_and_AI_Tools,402
+Big Data,Data_Concepts_and_Architectures,124
+Big Data,Concepts,124
+AI,Concepts,402
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+Python,Programming_Languages,178
+Unix,Programming_Languages,40
+Shell,Programming_Languages,20
+Hadoop,Big_Data_Frameworks,22
+Hive,Big_Data_Frameworks,45
+Spark,Big_Data_Frameworks,103
+Unix,Concepts,40
+PostgreSQL,Databases,24
+Tableau,Visualization_and_BI_Tools,12
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+AWS,Cloud_Platforms_and_Services,74
+Azure,Cloud_Platforms_and_Services,68
+GCP,Cloud_Platforms_and_Services,44
+AI,Machine_Learning_and_AI_Tools,402
+Agile,Soft_Skills_and_Methodologies,54
+Jira,Soft_Skills_and_Methodologies,6
+AI,Concepts,402
+PowerBI,Visualization_and_BI_Tools,2
+ETL,Data_Concepts_and_Architectures,156
+ETL,Concepts,156
+Metadata Management,Data_Governance_and_Security,1
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Scala,Programming_Languages,69
+Spark,Big_Data_Frameworks,103
+AI,Machine_Learning_and_AI_Tools,402
+Data Pipeline,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Data Pipeline,Concepts,74
+Python,Programming_Languages,178
+Azure,Cloud_Platforms_and_Services,68
+MySQL,Databases,40
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Agile,Soft_Skills_and_Methodologies,54
+SQL,Programming_Languages,238
+Unix,Programming_Languages,40
+Shell,Programming_Languages,20
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+ML,Concepts,23
+Unix,Concepts,40
+Airflow,Orchestration,24
+AI,Machine_Learning_and_AI_Tools,402
+PyTorch,Machine_Learning_and_AI_Tools,1
+Kubeflow,Machine_Learning_and_AI_Tools,2
+AI,Concepts,402
+AWS,Cloud_Platforms_and_Services,74
+Python,Programming_Languages,178
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Git,DevOps_and_CI/CD_Tools,38
+Machine Learning,Concepts,90
+Databricks,Databases,31
+Spark,Big_Data_Frameworks,103
+Data Governance,Data_Concepts_and_Architectures,21
+MySQL,Databases,40
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+ML,Concepts,23
+Snowflake,Databases,26
+Kafka,Streaming,16
+NiFi,Orchestration,2
+Python,Programming_Languages,178
+PySpark,Programming_Languages,51
+Spark,Big_Data_Frameworks,103
+AWS,Cloud_Platforms_and_Services,74
+MongoDB,Databases,4
+Python,Programming_Languages,178
+C++,Programming_Languages,10
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Git,DevOps_and_CI/CD_Tools,38
+Machine Learning,Concepts,90
+Snowflake,Databases,26
+Redshift,Databases,34
+dbt,Orchestration,4
+Informatica,Data_Integration,29
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Data Warehouse,Data_Concepts_and_Architectures,16
+Data Governance,Data_Concepts_and_Architectures,21
+AI,Concepts,402
+Data Warehouse,Concepts,16
+Data Quality,Data_Concepts_and_Architectures,74
+Python,Programming_Languages,178
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Machine Learning,Concepts,90
+Cassandra,Databases,3
+Neo4j,Databases,2
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+Scrum,Soft_Skills_and_Methodologies,15
+Data Modeling,Concepts,158
+ETL,Concepts,156
+Spark,Big_Data_Frameworks,103
+Flink,Big_Data_Frameworks,2
+Machine Learning,Machine_Learning_and_AI_Tools,90
+Data Quality,Data_Concepts_and_Architectures,74
+Machine Learning,Concepts,90
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+Spark,Big_Data_Frameworks,103
+SQL,Programming_Languages,238
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+AI,Concepts,402
+Databricks,Databases,31
+Spark,Big_Data_Frameworks,103
+Azure,Cloud_Platforms_and_Services,68
+Snowflake,Databases,26
+Redshift,Databases,34
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Spark,Big_Data_Frameworks,103
+Data Warehouse,Data_Concepts_and_Architectures,16
+Data Warehouse,Concepts,16
+Scala,Programming_Languages,69
+Agile,Soft_Skills_and_Methodologies,54
+PostgreSQL,Databases,24
+MySQL,Databases,40
+SQL,Programming_Languages,238
+Shell,Programming_Languages,20
+Jira,Soft_Skills_and_Methodologies,6
+Python,Programming_Languages,178
+GCP,Cloud_Platforms_and_Services,44
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Machine Learning,Concepts,90
+AI,Concepts,402
+ML,Concepts,23
+Scala,Programming_Languages,69
+OLAP,Concepts,6
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Machine Learning,Concepts,90
+AI,Concepts,402
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+Unix,Programming_Languages,40
+AWS,Cloud_Platforms_and_Services,74
+Unix,Concepts,40
+SQL,Programming_Languages,238
+Machine Learning,Machine_Learning_and_AI_Tools,90
+AI,Machine_Learning_and_AI_Tools,402
+Data Quality,Data_Concepts_and_Architectures,74
+Machine Learning,Concepts,90
+AI,Concepts,402
+Python,Programming_Languages,178
+Git,DevOps_and_CI/CD_Tools,38
+Tableau,Visualization_and_BI_Tools,12
+Python,Programming_Languages,178
+Data Pipeline,Data_Concepts_and_Architectures,74
+Data Pipeline,Concepts,74
+NoSQL,Databases,27
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+Python,Programming_Languages,178
+SQL,Programming_Languages,238
+AWS,Cloud_Platforms_and_Services,74
+ETL,Data_Concepts_and_Architectures,156
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+ETL,Concepts,156
+ML,Concepts,23
+SQL,Programming_Languages,238
+Scala,Programming_Languages,69
+Snowflake,Databases,26
+Redshift,Databases,34
+Tableau,Visualization_and_BI_Tools,12
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+Data Warehouse,Data_Concepts_and_Architectures,16
+Data Modeling,Data_Concepts_and_Architectures,158
+Data Modeling,Concepts,158
+Data Warehouse,Concepts,16
+Python,Programming_Languages,178
+ML,Concepts,23
+Informatica,Data_Integration,29
+SQL,Programming_Languages,238
+Azure,Cloud_Platforms_and_Services,68
+AI,Machine_Learning_and_AI_Tools,402
+AI,Concepts,402
